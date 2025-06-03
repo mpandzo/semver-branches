@@ -19,3 +19,4 @@ The Github workflow in .github/workflows performs the following tasks:
 
 In order to utilize this workflow you must use at least the `develop` and `master` branches. In addition, you must allow your github action (via GITHUB_TOKEN) to both read and write to your repo. To do so, simply do the following in Settings -> Actions:
 
+<img width="773" alt="Screenshot 2025-06-03 at 2 02 27 pm" src="https://github.com/user-attachments/assets/c8279741-9bef-4d5e-b08c-f5a399c55d73" />
