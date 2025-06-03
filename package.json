@@ -1,6 +1,6 @@
 {
   "name": "semver-branches",
-  "version": "0.0.1-develop.0",
+  "version": "0.0.1",
   "description": "Semantic versioning of package.json across branches via github actions",
   "main": "index.js",
   "scripts": {
